@@ -1,0 +1,150 @@
+
+#container {
+	width: 100%;
+   margin: 0 auto;
+   height: 100%;
+}
+
+#img2020 {
+
+width: 44%;
+  	 margin: 0 auto;
+   	height: 12%;
+   	margin-left: 10%;
+   	padding-top: 0%;
+}
+
+#header {
+	width: 800px;
+	height: 160px;
+	background-color: lightgrey;
+	margin: 0 auto;
+}
+
+#header img {
+	width: 160px;
+	float: left;
+	margin: 0 auto;
+}
+
+#header h1 {
+	padding-top: 50px;
+	margin-left: 200px;
+	font-family: "calibri";
+
+}
+
+.header-box {
+	width: 100%;
+	background-color: lightgrey;
+	margin-top: 0%;
+
+}
+
+#img {
+
+	margin-left: 450px;
+	font-family: "calibri";
+	margin-top: 0px;
+
+}
+
+
+
+#ingredientstitle {
+
+width: 30%;
+  	 margin: 0 auto;
+   	height: 12%;
+
+}
+
+
+#ingredients {
+/*	margin-left: 200px; */
+margin: 0 auto;
+width: 500px;
+height: 500px;
+	font-family: "calibri";
+	background-color: white;
+
+
+}
+
+#videolink {
+
+margin: 0 auto;
+width: 122px;
+height: 22px;
+bottom: 22px;
+padding: 20px;
+border-width: 20px;
+font-family: "calibri";
+background-color: lightgray;
+font-size:large;
+
+}
+
+
+a, a:active {
+	text-decoration: none;
+	color: orange;
+	margin: 0 auto;
+}
+
+#list1 {
+	float: right;
+	width: 40%;
+  	 margin: 0 auto;
+   	height: 12%;
+
+}
+
+
+
+#list2 {
+	float: left;
+	width: 60%;
+  	 margin: 0 auto;
+   	height: 12%;
+
+}
+
+/*page2 styles*/
+
+#container3  {
+
+margin: 0 auto;
+width: 500px;
+height: 500px;
+font-family: "calibri";
+background-color: white;
+
+}
+
+#methodtitle {
+
+	width: 30%;
+  	 margin: 0 auto;
+   	height: 12%;
+
+}
+
+iframe {
+	margin-left: 30%;
+	padding-bottom: 5%;
+
+
+}
+
+
+#ingredientsimg {
+
+	width: 44%;
+   	height: 75%;
+   	position: relative;
+   	right: 90px;
+
+
+
+}
