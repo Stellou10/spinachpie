@@ -1,1 +1,1 @@
-# https://stellou10.github.io/spinachpie.html
+https://spinachpie.index.html
