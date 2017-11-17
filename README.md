@@ -1,1 +1,1 @@
-https://spinachpie.index.html
+https://spinachpie.github.io/index.html
